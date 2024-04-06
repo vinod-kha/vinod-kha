@@ -1,4 +1,4 @@
-### Hi there 👋 Vinod khathi here https://www.linkedin.com/in/vinod-khathi-4573261b4/
+### Hi👋 Vinod khathi here https://www.linkedin.com/in/vinod-khathi-4573261b4/
 
 
 I work on DevOps, Microservices, containers, and everything around it.
