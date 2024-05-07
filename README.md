@@ -8,4 +8,4 @@ I am a passionate DevOps Engineer with expertise in AWS cloud services, infrastr
 - 🌱 I’m currently learning AI and ML
 - 👯 I’m looking to collaborate on AWS and DevOps Projects
 - 💬 Ask me about AWS , DevOps
-- 📫 How to reach me vinodkhathi04@gmail.com
+- 📫 Reach me at vinodkhathi04@gmail.com
